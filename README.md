@@ -31,6 +31,7 @@ note: you need a python to run this!
 9. run the server.py
 
 note: if you want to public the server you need to port forwarding the game in you intrnet
+
 tutorial to port forwarding: [Click Here](https://www.youtube.com/watch?v=X2WQiTvXK9U)   
 
 # How to connect to server
