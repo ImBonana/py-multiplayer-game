@@ -2,7 +2,7 @@
 
 This is a python Multiplayer game!
 
-note you need a python to run this!
+note: you need a python to run this!
 
 # How to install
 
@@ -29,6 +29,9 @@ note you need a python to run this!
 7. on the serverIp type your IPv4 Address
 8. and save it
 9. run the server.py
+
+note: if you want to public the server you need to port forwarding the game in you intrnet
+tutorial to port forwarding: [Click Here](https://www.youtube.com/watch?v=X2WQiTvXK9U)   
 
 # How to connect to server
 
