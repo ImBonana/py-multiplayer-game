@@ -30,7 +30,9 @@ note: you need a python to run this!
 8. and save it
 9. run the server.py
 
-note: if you want to public the server you need to port forwarding the game in you intrnet
+note: if you want to public the server you need to port forwarding the game in you intrnet 
+
+Server port: 5555
 
 tutorial to port forwarding: [Click Here](https://www.youtube.com/watch?v=X2WQiTvXK9U)   
 
