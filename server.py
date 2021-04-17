@@ -4,7 +4,7 @@ import pickle
 from game import Game
 import json
 jsonData = json.loads(open("config.json", "r").read())
-serverIp = str(jsonData["ip"])
+serverIp = str(jsonData["serverIp"])
 
 server = serverIp
 port = 5555
